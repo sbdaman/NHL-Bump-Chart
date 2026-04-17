@@ -18,7 +18,7 @@ season_dates <- c(
 # can also be .jpg but you gotta change the icon filenames
 # don't bother with transparent backgrounds, the lines will mess with the logos.
 
-icons_dir <- "~/NHL/Icons"  
+icons_dir <- "./Icons"
 
 # Normalize team names across seasons (relocations / rebrands, and Habs accented e).
 # LHS is the name returned by the NHL API in an older season
