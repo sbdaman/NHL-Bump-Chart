@@ -52,7 +52,7 @@ Requirements:
 
 ---
 
-### 3. Handle Team Renames (Optional)
+### 3. Handle Team Renames/Standardization
 
 Normalize team names across seasons:
 
@@ -63,7 +63,7 @@ team_renames <- c(
 )
 ```
 
-This prevents breaks when franchises relocate or rebrand. Also fixes Habs accent encoding stuff. Leave this the same unless a team relocates or changes names and I haven't included the change.
+This prevents breaks when franchises relocate or rebrand (Arizona/Utah in this case). Also fixes Habs accent encoding stuff. Leave this the same unless a team relocates or changes names and I haven't included the change.
 
 ---
 
